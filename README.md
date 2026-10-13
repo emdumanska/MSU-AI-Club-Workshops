@@ -11,7 +11,6 @@ This repository documents my hands-on projects and learning experiences through 
 ### Workshop 01: The Art of the Data Lifecycle
 **September 14, 2026 | Random Forest Classification**
 
-[View Project](workshop-01-penguin-classifier/)
 
 Built a Random Forest classifier to predict penguin species using the Palmer Penguins dataset. Explored data preprocessing, feature engineering, visualization, model evaluation, and exporting a trained model.
 
@@ -20,7 +19,6 @@ Built a Random Forest classifier to predict penguin species using the Palmer Pen
 ### Workshop 04: Rethinking Uncertainty — A Bayesian Perspective on Machine Learning
 **October 12, 2026 | Bayesian Logistic Regression**
 
-[View Project](workshop-04-bayesian-logistic-regression/)
 
 Implemented key components of Bayesian logistic regression for breast cancer classification. Explored Metropolis-Hastings MCMC, posterior inclusion probabilities, feature selection, and odds ratio interpretation.
 
